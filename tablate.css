@@ -1,0 +1,14 @@
+body { 
+    margin: 0%;
+    padding: 0%;
+    font-family: Lexend;
+  }
+  .girl{
+    margin-top: 102px;
+  }
+   /* @media screen and (max-width:800px) {
+    .girl{
+        margin-top: 34px;
+      }
+
+} */

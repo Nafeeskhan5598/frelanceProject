@@ -1,0 +1,160 @@
+/* @media screen and (max-width:800px) { */
+    body { 
+        margin: 0%;
+        padding: 0%;
+        font-family: Lexend;
+      }
+
+      .navbar{
+        margin-left: -166px;
+
+      }
+      header{
+        width: 100%;
+      }
+#glass-m5{
+    margin: 27px 64px 5px -304px;
+    font-size: 26px;
+}
+.groupimg{
+    /* width: 123rem; */
+}
+.color{
+    /* width: 111rem; */
+    background-color: rgb(94, 113, 219);
+}
+
+.group-java{
+    margin-left: -67px;
+
+}
+
+.button-first{
+      margin-left: -408px;
+     margin-top: -2px;
+}
+.nav-item{
+   /* margin-left: 83px; */
+}
+.freelance-txt {
+    margin-left: 411px;
+}
+.girl{
+    /* width: 123rem; */
+   
+    /* margin-top: 152px; */
+
+}
+#girl-image {
+        margin-top: 210px;
+    margin-left: 40px;
+    height: 402px;
+    width: 346px;
+}
+#about-me {
+    width: 533px;
+    margin: -400px 0px 0px 392px;
+}
+.lorem3 {
+    padding: 22px 1px 1px 17px;
+}
+.lorem1{
+    margin: -164px 15px 19px 26px;
+
+}
+.lorem{
+    margin: 34px -57px 69px 266px;
+}
+.all-logo{
+    
+}
+.logo-area{
+    /* width: 123rem; */
+}
+.html-logo{
+    padding-left: -7px;
+    height: 377px;
+    width: 328px;
+    margin: 90px -20px 21px 25px;
+}
+.card{
+   background-size: 100%;
+}
+.card-img {
+    /* width: 123rem; */
+}
+#card-image{
+    margin-left: 192px;
+    height: 309px;
+    width: 481px;
+}
+.card-text{
+    width: 662px;
+    height: 449px;
+    margin-left: 284px;
+}
+#card-head{
+    padding: 7px 75px 30px 157px;
+}
+.dolor{
+    /* width: 123rem; */
+}
+.card-f{
+    margin: -82px -133px 19px 15px;
+}
+.website-img{
+    /* width: 123rem; */
+}
+.website-card{
+    margin: 3px -291px 64px 207px;
+}
+.contact-img{
+    /* width: 123rem; */
+}
+.bigg-card{
+    
+    margin-left: -268px;
+
+}
+.paragraph{
+    /* width: 123rem; */
+}
+#paragraph-card{
+    
+    margin-left: 3px;
+
+}
+.enter-email{
+    /* width: 123rem; */
+}
+.Subscrib-txt{
+    
+    margin-left: 206px;
+
+}
+.email-area {
+    
+    margin-left: 82px;
+}   
+.laptop {
+    /* width: 123rem; */
+}
+.laptop-girl-card{
+    margin-left: 160px;
+}
+.laptop-txt{
+    margin-left: 316px;
+}
+.form{
+    /* width: 123rem; */
+}
+.form-validation{
+    margin-left: 183px;
+}
+
+.footer{
+    /* width: 123rem; */
+}
+.footer-p{
+    
+}
